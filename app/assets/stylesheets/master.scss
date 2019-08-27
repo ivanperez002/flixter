@@ -1,5 +1,12 @@
 @import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=KoHo&display=swap');
 
 .navbar {
-  background-color: #FE4C4C;
+  background-color: #FE3232;
+  font-family: 'KoHo', sans-serif;
+  box-shadow: 0px 1px 3px #2a2a2a;
+}
+
+.navbar-inverse .navbar-brand{
+  color: blue;
 }
